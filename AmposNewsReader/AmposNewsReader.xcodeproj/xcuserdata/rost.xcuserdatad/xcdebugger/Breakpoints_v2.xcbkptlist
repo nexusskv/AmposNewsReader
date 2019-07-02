@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmposNewsReader/Services/ApiServices/NewsLoader.swift"
+            timestampString = "583163036.013525"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "loadData(_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AmposNewsReader/ViewControllers+Extensions/NewsViewController+Extensions/NewsViewController+ScrollView.swift"
+            timestampString = "583163036.013603"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AmposNewsReader.NewsViewController.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "AmposNewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rost/myProj/test/Ampos/AmposNews/AmposNewsReader/AmposNewsReader/ViewControllers+Extensions/NewsViewController+Extensions/NewsViewController+ScrollView.swift"
+                  timestampString = "583163036.167311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "537">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AmposNewsReader.NewsViewController.scrollViewDidScroll(__C.UIScrollView) -&gt; ()"
+                  moduleName = "AmposNewsReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rost/myProj/test/Ampos/AmposNews/AmposNewsReader/AmposNewsReader/ViewControllers+Extensions/NewsViewController+Extensions/NewsViewController+ScrollView.swift"
+                  timestampString = "583163036.1698329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
